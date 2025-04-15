@@ -11,7 +11,7 @@ export default function Index() {
     >
       <Text
         style={{
-          backgroundColor: "blue",
+
         }}
       >Hello Deepak, Welcome to Native!</Text>
     </View>
